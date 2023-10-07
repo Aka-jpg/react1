@@ -1,0 +1,46 @@
+
+ *{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+height: 200%;
+background-color: #282D35;
+
+
+}
+
+ nav{
+  display:flex;
+  align-items: center;
+  background-color: #21222A;
+  height: 180px;
+  padding: 30px 25px;
+
+ }
+nav > h2, nav > h4{
+  margin: 0;
+  
+}
+nav >h2{
+margin-right: auto;
+font-weight: 700;
+color:white;
+}
+nav >h4{
+font-weight: 600;
+color:aquamarine;
+
+}
+main{
+  color:white;
+ 
+  height:100%;
+  padding: 57px;
+
+  
+
+}
+main > h1{
+  margin-top: 0;
+}
